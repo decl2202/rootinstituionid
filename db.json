@@ -1,9 +1,9 @@
 {	"rootInstitutionIds":
 	{
-		"resultData": [{
+		"resultData": {
 			544,
 			28019
-		}],
+		},
 		"success": true
 		"resultMessage": "Merge and Match process has been success."
 	}
